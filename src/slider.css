@@ -1,0 +1,31 @@
+ .CalApp {
+    display: inline-block;
+    border: 2px #CCC solid;
+    width: 50%;
+   margin-top: 10px;
+   padding-left: 20px;
+   padding-right: 20px;
+   border-color:black;
+}
+
+.Calheading{
+text-align: center;
+color:#ffa500;
+}
+
+.ETableCellText{
+  background-color:#ffa500;
+  color:#ffa500;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.ETableCellVal{
+    background-color:darkgoldenrod;
+    color: darkgoldenrod;
+    text-align: right im !important;
+    font-size: 18px !important;
+}
+.emiTable{
+    border: 2px solid;
+    border-color:black;
+}
